@@ -1,4 +1,5 @@
 # My_studying_Data-Science-and-Neyro-Nets-on-Python
+https://neural-university.ru/kurs_neural_pro
 
 ПРОГРАММА ОБУЧЕНИЯ
 «Data science и нейронные сети на Python»
